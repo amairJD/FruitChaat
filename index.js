@@ -1,3 +1,5 @@
+// Amair Javaid - 10125771 - ajavaid@ucalgary.ca - SENG 513 assignment 3
+
 var app = require('express')();
 var http = require('http').Server(app);
 var io = require('socket.io')(http);
