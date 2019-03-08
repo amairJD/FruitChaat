@@ -1,5 +1,4 @@
-console.log("Client.js worked...")
-
+// Amair Javaid - 10125771 - ajavaid@ucalgary.ca - SENG 513 assignment 3 
 var userName;
 
 $(function () {
